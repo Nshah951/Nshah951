@@ -1,8 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://i.ibb.co/8dN6qFg/banner-placeholder.png" width="100%" alt="Banner"/>
-</p>
-
 <!-- ANIMATED INTRO -->
 <h1 align="center">👋 Hello, I'm <span style="color:#4FC3F7">Nishant Shah</span></h1>
 
@@ -88,31 +83,6 @@ Directly summarized from resume:
 - **Fanshawe College, Canada** — Artificial Intelligence & Machine Learning (PGD), GPA: *3.42/4.2*  
 - **Bachelor of Engineering (Computer Engineering)** — Gujarat Technological University, India  
 - **Diploma in Computer Engineering** — Gujarat Technological University  
-
----
-
-<!-- TROPHY -->
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nshah951&theme=tokyonight&no-frame=true&column=5" />
-</p>
-
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nshah951&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nshah951&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<!-- STREAK -->
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nshah951&theme=tokyonight" />
-</p>
 
 ---
 
