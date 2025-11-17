@@ -34,14 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nshah951&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nshah951&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🧩 Projects I’ve Built  
 ### **🔹 Code Regenerator — Python NLP Tool**  
 Auto-refactors Python code using transformer models.  
